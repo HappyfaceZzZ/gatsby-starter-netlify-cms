@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Himlakull
 image: /img/home-jumbotron.jpg
-heading: Himlakull - denna himla kultur
+heading: Himlakull - denna himla kultur test
 subheading: Denna himla kultur
 mainpitch:
   title: Why Kaldi
