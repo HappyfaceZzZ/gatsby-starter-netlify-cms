@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Himlakull
+title: Himlakull Kafé
 image: /img/home-jumbotron.jpg
 heading: Himlakull - denna himla kultur test
-subheading: Denna himla kultur TEST
+subheading: Denna himla kultur
 mainpitch:
   title: Why Kaldi
   description: >
