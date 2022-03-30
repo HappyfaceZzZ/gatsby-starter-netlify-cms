@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: " "
-image: /img/himlakull_kafe_logo.png
-heading: " "
-subheading: " "
+title: " Himlakull Kafé"
+image: /img/img_20220118_091014.jpeg
+heading: " Himlakull"
+subheading: Denna Himla Kultur
 mainpitch:
   title: Why Kaldi
   description: >
